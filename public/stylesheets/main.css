@@ -1,5 +1,5 @@
 #foobar {
-    text-align: left;
+    text-align: center;
 
 }
 .blue {
@@ -9,9 +9,34 @@
     background-color: darkgreen;
 }
 .orange {
-    background-color: orange;
+   background-color: orange;
 }
 .green a, .blue a,.orange a {
     color: ghostwhite ;
+}
+#origami {
+    color:blue;
+    text-align: center;
+}
+.origami2 {
+    text-decoration: none;
+}
+h2 {
+    color:darkgreen;
+}
+h3 {
+    color:red;
+}
+.cootie {
+    color:red;
+}
+.hi {
+    color:yellow;
+}
+#body {
+    background-color: black;
+}
+.blue li:hover {
+    color: blue;
 }
 
