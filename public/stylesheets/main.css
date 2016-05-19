@@ -28,7 +28,7 @@ h3 {
     color:red;
 }
 .cootie {
-    color:red;
+    color:yellow;
 }
 .hi {
     color:yellow;
@@ -39,4 +39,6 @@ h3 {
 .blue li:hover {
     color: blue;
 }
-
+.text {
+    color:blue;
+}
