@@ -1,0 +1,17 @@
+#foobar {
+    text-align: left;
+
+}
+.blue {
+   background-color: blue;
+}
+.green {
+    background-color: darkgreen;
+}
+.orange {
+    background-color: orange;
+}
+.green a, .blue a,.orange a {
+    color: ghostwhite ;
+}
+
